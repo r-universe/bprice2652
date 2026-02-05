@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "car"]
 	path = car
-	url = https://github.com/bprice2652/car_repo
+	url = https://github.com/cran/car
