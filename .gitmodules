@@ -5,3 +5,7 @@
 [submodule "car"]
 	path = car
 	url = https://github.com/cran/car
+[submodule "effects"]
+	path = effects
+	url = https://github.com/bprice2652/effects_repo
+	subdir = effects
